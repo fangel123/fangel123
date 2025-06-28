@@ -1,4 +1,4 @@
-<img src="profile.jpg" width="120" style="border-radius:50%" alt="Mikha Januardi" align="right">
+<img src="profile.png" width="120" style="border-radius:50%" alt="Mikha Januardi" align="right">
 
 # Hi, I'm Mikha Januardi 👋
 
