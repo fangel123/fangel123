@@ -1,5 +1,3 @@
-<img src="profile.png" width="120" style="border-radius:50%" alt="Mikha Januardi" align="right">
-
 # Hi, I'm Mikha Januardi 👋
 
 **Fullstack Developer** | **Frontend Specialist**  
