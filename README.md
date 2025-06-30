@@ -8,7 +8,7 @@ _"Talk less, do more"_
 ## 🚀 About Me
 
 - 💻 I build robust, scalable web applications with a focus on great user experiences.
-- 🧑‍💻 **Frontend:** React.js, Next.js, HTML5, CSS3, Tailwind CSS  
+- 💎​ **Frontend:** React.js, Next.js, HTML5, CSS3, Tailwind CSS  
 - 🔗 **Backend:** Node.js, Express.js
 - 💡 **Languages:** JavaScript, TypeScript
 - 🎮 Gaming enthusiast and always up for a challenge!
